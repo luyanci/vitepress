@@ -27,6 +27,16 @@ export default defineConfig({
 				icon: 'github',
 				link: 'https://github.com/name/repo'
 			}
-		]
+		],
+sidebar: [
+      {
+        //分组标题
+        text: '指南',
+        items: [
+          { text: 'Guide', link: '/guide' },
+          { text: 'about', link: '/about' },
+        ],
+      },
+    ],
 	}
 })
