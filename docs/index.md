@@ -1,7 +1,7 @@
 ---
 title: home
 layout: home
-sidebar: false
+sidebar: true
 
 hero:
   name: Home
