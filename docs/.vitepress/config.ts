@@ -5,7 +5,10 @@ export default defineConfig({
         base: '/vitepress/',
 	title: 'Hero',
 	description: '基于 vitepress 的文档模板',
-	head: [['link', { rel: 'icon', href: '/favicon.png' }]],
+        head: [
+        ['link', { rel: 'icon', href: '/favicon.png' }],
+        ['link', { rel: 'stylesheet', href: 'remixicon/fonts/remixicon.css'}]
+        ],
 	themeConfig: {
 		logo: 'logo.svg',
 		footer: {
