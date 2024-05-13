@@ -19,13 +19,13 @@ hero:
       link: /about/
 
 features:
-  - title: TODO
-    details: TODO
-    icon: ⚡
-  - title: TODO
-    details: TODO
-    icon: ☁️
-  - title: TODO
-    details: TODO
-    icon: 🚀
+  - title: 机器人qq
+    details: 'qq:2532559665'
+    icon: '<i class="ri-qq-fill"></i>'
+  - title: 支持B站
+    details: 支持B站动态推送
+    icon: '<i class="ri-bilibili-fill"></i>'
+  - title: 全平台通用
+    details: TODO（不想写）
+    icon: '<i class="ri-java-line"></i>'
 ---
