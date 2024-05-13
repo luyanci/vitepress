@@ -8,7 +8,7 @@ export default defineConfig({
         head: [
         ['link', { rel: 'icon', href: '/favicon.png' }],
         ['link', { rel: 'stylesheet', href: 'https://unpkg.com/remixicon@latest/fonts/remixicon.css'}],
-        ['link', { rel: 'stylesheet', href: 'https://unpkg.com/lxgw-wenkai-screen-web@1.330.1/lxgwwenkaiscreen/result.min.css'}],
+        ['link', { rel: 'stylesheet', href: 'https://unpkg.com/lxgw-wenkai-screen-web@1.330.1/lxgwwenkaiscreen/result.css'}],
 
         ],
 	themeConfig: {
