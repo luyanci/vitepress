@@ -12,9 +12,6 @@ export default defineConfig({
         ],
         themeConfig: {
                 logo: 'logo.svg',
-                fontFamily: {
-                        base: 'LXGW WenKai Screen'
-                },
                 footer: {
                         message: 'Released under the MIT License.',
                         copyright: 'Copyright © 2022 markthree'
