@@ -21,7 +21,7 @@ hero:
 features:
   - title: 机器人qq
     details: 'qq:2532559665'
-    icon: '<i class="si si-qq si--color"></i>'
+    icon: '<i class="si si-tencentqq si--color"></i>'
   - title: 支持B站
     details: 支持B站动态推送
     icon: '<i class="si si-bilibili si--color"></i>'
