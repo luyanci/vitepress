@@ -21,11 +21,11 @@ hero:
 features:
   - title: 机器人qq
     details: 'qq:2532559665'
-    icon: '<i class="ri-qq-fill"></i>'
+    icon: '<i class="si si-qq si--color"></i>'
   - title: 支持B站
     details: 支持B站动态推送
-    icon: '<i class="ri-bilibili-fill"></i>'
+    icon: '<i class="si si-bilibili si--color"></i>'
   - title: 全平台通用
     details: TODO（不想写）
-    icon: '<i class="ri-java-line"></i>'
+    icon: '<i class="si si-openjdk si--color"></i>'
 ---
