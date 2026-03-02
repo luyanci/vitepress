@@ -15,8 +15,8 @@ importers:
         specifier: ^10.9.0
         version: 10.9.0(vue@3.4.27)
       remixicon:
-        specifier: ^4.2.0
-        version: 4.2.0
+        specifier: ^4.9.1
+        version: 4.9.1
       vitepress:
         specifier: 1.5.0
         version: 1.5.0(@algolia/client-search@5.12.0)(@types/node@20.12.12)(postcss@8.4.47)(search-insights@2.13.0)
@@ -691,6 +691,7 @@ packages:
 
   oniguruma-to-js@0.4.3:
     resolution: {integrity: sha512-X0jWUcAlxORhOqqBREgPMgnshB7ZGYszBNspP+tS9hPD3l13CdaXcHbgImoHUHlrvGx/7AvFEkTRhAGYh+jzjQ==}
+    deprecated: use oniguruma-to-es instead
 
   perfect-debounce@1.0.0:
     resolution: {integrity: sha512-xCy9V055GLEqoFaHoC1SoLIaLmWctgCUaBaWxDZ7/Zx4CTyX7cJQLJOok/orfjZAh9kEYpjJa4d0KcJmCbctZA==}
@@ -718,8 +719,8 @@ packages:
   regex@4.4.0:
     resolution: {integrity: sha512-uCUSuobNVeqUupowbdZub6ggI5/JZkYyJdDogddJr60L764oxC2pMZov1fQ3wM9bdyzUILDG+Sqx6NAKAz9rKQ==}
 
-  remixicon@4.2.0:
-    resolution: {integrity: sha512-MF5wApNveRh3n0iMVM+lr2nSWrj/rBbSD2eWapuD9ReYRGs5naAUR1BqVBCHGqm286FIS6zwwmUf96QjHQ9l4w==}
+  remixicon@4.9.1:
+    resolution: {integrity: sha512-36gLSoujkabnCFZFDyP17VNh9piuBA/rsXUb4auSJWLGsHVXtmxLj/EM5FjaEAGnk8oIAj1Azob/DZ2N+90lAQ==}
 
   rfdc@1.4.1:
     resolution: {integrity: sha512-q1b3N5QkRUWUl7iyylaaj3kOpIT0N2i9MqIEQXP73GVsN9cw3fdx8X63cEmWhJGi2PPCF23Ijp7ktmd39rawIA==}
@@ -1583,7 +1584,7 @@ snapshots:
 
   regex@4.4.0: {}
 
-  remixicon@4.2.0: {}
+  remixicon@4.9.1: {}
 
   rfdc@1.4.1: {}
 
